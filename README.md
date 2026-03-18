@@ -1,2 +1,2 @@
 # Dissension
-A privacy focused chatting application for everyone.
+A privacy focused chatting protocol for everyone.
